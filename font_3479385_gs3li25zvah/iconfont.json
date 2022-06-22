@@ -1,0 +1,23 @@
+{
+  "id": "3479385",
+  "name": "cv1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15710152",
+      "name": "关 闭",
+      "font_class": "guanbi-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "30178391",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "100da",
+      "unicode_decimal": 65754
+    }
+  ]
+}
